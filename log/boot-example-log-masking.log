@@ -1,0 +1,4 @@
+2024-03-22 16:56:17 [main] INFO  b.e.j.b.BootExampleLogMaskingApplication - Starting BootExampleLogMaskingApplication using Java 17.0.8 with PID 4268 (D:\Brian\workspaces\github-allthatjava\boot-example-log-masking\build\classes\java\main started by allthatjava in D:\Brian\workspaces\github-allthatjava\boot-example-log-masking) 
+2024-03-22 16:56:17 [main] INFO  b.e.j.b.BootExampleLogMaskingApplication - No active profile set, falling back to 1 default profile: "default" 
+2024-03-22 16:56:17 [main] INFO  b.e.j.b.BootExampleLogMaskingApplication - Started BootExampleLogMaskingApplication in 0.813 seconds (process running for 1.511) 
+2024-03-22 16:56:17 [main] INFO  b.e.j.b.BootExampleLogMaskingApplication - Person log:Person(firstName=****, lastName=****, creditCardNumber=****, address=123 ABC Street) 

@@ -44,5 +44,5 @@ Above regex pattern will replace the part of the log where
 
 When you log the Person object, it will be logged like this
 ```
-Person(firstName=****, lastName=****, creditCardNumber=****) 
+Person(firstName=****, lastName=****, creditCardNumber=****, address=123 ABC Street)
 ```

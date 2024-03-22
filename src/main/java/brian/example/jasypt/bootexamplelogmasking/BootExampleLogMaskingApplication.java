@@ -18,7 +18,7 @@ public class BootExampleLogMaskingApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        Person p = new Person("Brian", "Heo", "1234567812345678");
+        Person p = new Person("Brian", "Heo", "1234567812345678", "123 ABC Street");
 
         log.info("Person log:{}",p);
     }
